@@ -21,31 +21,95 @@
       "title": "xiaomi",
       "image": "/images/Xiaomi 1.webp",
       "price": 4000000,
-      "availableBrand": ["motorola"],
+      "availableBrand": ["xiaomi"],
       "qty": 1
     },
     {
       "id": "4",
-      "title": "sony",
-      "image": "/images/mobile4.jpg",
+      "title": "xiaomi",
+      "image": "/images/Xiaomi 2.webp",
       "price": 7800000,
-      "availableBrand": ["blackberry"],
+      "availableBrand": ["xiaomi"],
       "qty": 1
     },
     {
       "id": "5",
-      "title": "موبایل ال جی",
-      "image": "/images/mobile5.jpg",
+      "title": "xiaomi",
+      "image": "/images/Xiaomi 3.webp",
       "price": 9200000,
-      "availableBrand": ["lg"],
+      "availableBrand": ["xiaomi"],
       "qty": 1
     },
     {
       "id": "6",
-      "title": "موبایل سونی",
-      "image": "/images/mobile6.jpg",
+      "title": "xiaomi",
+      "image": "/images/Xiaomi 4.webp",
       "price": 10400000,
-      "availableBrand": ["sony"],
+      "availableBrand": ["xiaomi"],
+      "qty": 1
+    },
+    {
+      "id": "7",
+      "title": "iphone",
+      "image": "/images/iphone 2.webp",
+      "price": 75000000,
+      "availableBrand": ["iphone"],
+      "qty": 1
+    },
+    {
+      "id": "8",
+      "title": "iphone",
+      "image": "/images/iphone 3.webp",
+      "price": 75000000,
+      "availableBrand": ["iphone"],
+      "qty": 1
+    },
+    {
+      "id": "9",
+      "title": "iphone",
+      "image": "/images/iphone 4.webp",
+      "price": 75000000,
+      "availableBrand": ["iphone"],
+      "qty": 1
+    },
+    {
+      "id": "10",
+      "title": "iphone",
+      "image": "/images/iphone 5.webp",
+      "price": 75000000,
+      "availableBrand": ["iphone"],
+      "qty": 1
+    },
+    {
+      "id": "11",
+      "title": "samsung",
+      "image": "/images/samsung 2.webp",
+      "price": 75000000,
+      "availableBrand": ["samsung"],
+      "qty": 1
+    },
+    {
+      "id": "12",
+      "title": "samsung",
+      "image": "/images/samsung 3.webp",
+      "price": 75000000,
+      "availableBrand": ["samsung"],
+      "qty": 1
+    },
+    {
+      "id": "13",
+      "title": "samsung",
+      "image": "/images/samsung 4.webp",
+      "price": 75000000,
+      "availableBrand": ["samsung"],
+      "qty": 1
+    },
+    {
+      "id": "14",
+      "title": "samsung",
+      "image": "/images/samsung 5.webp",
+      "price": 75000000,
+      "availableBrand": ["samsung"],
       "qty": 1
     }
   ]

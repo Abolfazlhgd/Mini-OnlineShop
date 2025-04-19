@@ -30,13 +30,13 @@ function Filter(props) {
       </div>
       <div className="brand flex flex-col">
         <span>Brand</span>
-        <select>
+        <select value={props.brand} onChange={props.filterProducts}>
           <option value="">all</option>
-          <option value="">samsung</option>
-          <option value="">iphone</option>
-          <option value="">xiaomi</option>
-          <option value="">google</option>
-          <option value="">sony</option>
+          <option value="samsung">samsung</option>
+          <option value="iphone">iphone</option>
+          <option value="xiaomi">xiaomi</option>
+          <option value="google">google</option>
+          <option value="sony">sony</option>
         </select>
       </div>
     </div>
