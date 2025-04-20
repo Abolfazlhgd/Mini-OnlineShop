@@ -1,4 +1,5 @@
 import React from "react";
+import formatCurrency from "../util";
 
 function Products(props) {
   return (
@@ -10,7 +11,7 @@ function Products(props) {
               <img className="w-52" src={item.image} alt="" />
               <p className="border-b-2">{item.title}</p>
               <div className="product-price flex justify-between text-center items-center my-1">
-                <div className="price">{item.price}</div>
+                <div className="price">{formatCurrency(item.Price)}</div>
                 <button
                   onClick={() => props.addProducts(item)}
                   className="bg-red-400 rounded-md text-white px-2 py-1 hover:shadow-md hover:bg-red-500 transition-all"
